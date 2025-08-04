@@ -1,4 +1,5 @@
 .env
+notebooks/mlruns
 newenv
 
 # Byte-compiled / optimized / DLL files
