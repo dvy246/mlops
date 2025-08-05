@@ -2,7 +2,7 @@
 notebooks/mlruns
 newenv
 
-models/model.pkl
+models
 
 
 # Byte-compiled / optimized / DLL files
